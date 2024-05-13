@@ -6,6 +6,6 @@ This project explores the trends and demographics of Nobel Prize winners from 19
 
 
 
-## 2) 
+## 2) Andriod App Market on Google Play
 
 This Python script analyzes a dataset of mobile apps, covering a range of aspects such as app categories, ratings, prices, sizes, and user sentiments. Beginning with data loading and cleaning to ensure data quality, it proceeds to visualize key metrics using Plotly and Seaborn libraries, including the distribution of app ratings, pricing trends across categories, and comparisons between paid and free apps in terms of downloads and user sentiment polarity. Additionally, it integrates user review data to explore user sentiments further. Through its comprehensive analysis, the script provides valuable insights into the mobile app market landscape and user perceptions, aiding in strategic decision-making for app developers and marketers.
